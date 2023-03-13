@@ -143,9 +143,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me elsewhere:</p>
-  <a href="https://github.com/m5snow"><i class="fa fa-github w3-hover-opacity"></i></a>
+  <a href="https://github.com/m5snow"><i class="fa fa-github w3-hover-opacity w3-xxxlarge"></i></a>
   <!-- <i class="fa fa-instagram w3-hover-opacity w3-xxxlarge"> </i> -->
-  <a href="https://www.linkedin.com/in/mallory-snow-a64bb4250/"><i class="fa fa-linkedin w3-hover-opacity"> </i></a>
+  <a href="https://www.linkedin.com/in/mallory-snow-a64bb4250/"><i class="fa fa-linkedin w3-hover-opacity w3-xxxlarge"> </i></a>
 </footer>
 
 </body>
