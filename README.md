@@ -1,4 +1,4 @@
-
+<html>
 <head>
 <title> Mallory A. Snow </title>
 <meta charset="UTF-8">
@@ -26,7 +26,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="https://user-images.githubusercontent.com/79717225/224844331-aadb385b-debd-493b-9d38-e457cdac6883.png" style="width:20%; margin-bottom:100px; margin-left: 50px" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2> Mallory A. Snow </h1>
+            <h2> Mallory A. Snow </h2>
           </div>
         </div>
         <div class="w3-container">
