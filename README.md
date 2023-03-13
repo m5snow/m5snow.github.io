@@ -1,4 +1,4 @@
-<html>
+
 <head>
 <title> Mallory A. Snow </title>
 <meta charset="UTF-8">
@@ -125,25 +125,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b>University of Waterloo</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
           <p> Master's of Mathematics, Computer Science.</p>
-	  <p> Specialization Artificial Intelligence, 4.0 GPA </p><br>
+	  <p> project details </p><br>
         </div>
-      </div>
-
-      <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Other Involvement </h2>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b> SPARCS Workshop Volunteer  / UW </b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015</h6>
-          <p>Assisted with....</p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b> Conference Speaker/ Cognitive Science 22</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p>Consectetur adipisicing elit.</p>
-          <hr>
-        </div>
-
       </div>
 
 
@@ -160,9 +143,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me elsewhere:</p>
-  <a href="https://github.com/m5snow"><i class="fa fa-github w3-hover-opacity w3-large"></i></a>
+  <a href="https://github.com/m5snow"><i class="fa fa-github w3-hover-opacity"></i></a>
   <!-- <i class="fa fa-instagram w3-hover-opacity w3-xxxlarge"> </i> -->
-  <a href="https://www.linkedin.com/in/mallory-snow-a64bb4250/"><i class="fa fa-linkedin w3-hover-opacity w3-large"> </i></a>
+  <a href="https://www.linkedin.com/in/mallory-snow-a64bb4250/"><i class="fa fa-linkedin w3-hover-opacity"> </i></a>
 </footer>
 
 </body>
