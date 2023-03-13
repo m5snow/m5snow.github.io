@@ -8,9 +8,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
-h1 {
-  margin-top: 25px;
-}
+
 </style>
 </head>
 <body class="w3-light-grey">
@@ -26,7 +24,7 @@ h1 {
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="https://user-images.githubusercontent.com/79717225/224844331-aadb385b-debd-493b-9d38-e457cdac6883.png" style="width:80%; margin-bottom:100px; margin-left: 50px" alt="Avatar">
+          <img src="https://user-images.githubusercontent.com/79717225/224844331-aadb385b-debd-493b-9d38-e457cdac6883.png" style="width:20%; margin-bottom:100px; margin-left: 50px" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2> Mallory A. Snow </h1>
           </div>
@@ -80,7 +78,7 @@ h1 {
 
     <div class="w3-container w3-card w3-white">
     <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
-        <div class="w3-container">
+	<div class="w3-container">
           <h5 class="w3-opacity"><b>University of Waterloo</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
           <p> Master's of Mathematics, Computer Science.</p>
@@ -121,8 +119,8 @@ h1 {
         </div>
 	</div>
 
-	<div class="w3-container w3-card w3-white">
-    	<h2 class="w3-text-grey w3-padding-16"><i class="fa fa-file fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
+     <div class="w3-container w3-card w3-white">
+     <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-file fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>University of Waterloo</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
@@ -135,7 +133,7 @@ h1 {
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Other Involvement </h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b> SPARCS Workshop Volunteer  / UW </b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015</h6>
           <p>Assisted with....</p>
           <hr>
         </div>
@@ -162,9 +160,9 @@ h1 {
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me elsewhere:</p>
-  <a href="https://github.com/m5snow"><i class="fa fa-github w3-hover-opacity w3-jumbo"></i></a>
+  <a href="https://github.com/m5snow"><i class="fa fa-github w3-hover-opacity w3-large"></i></a>
   <!-- <i class="fa fa-instagram w3-hover-opacity w3-xxxlarge"> </i> -->
-  <a href="https://www.linkedin.com/in/mallory-snow-a64bb4250/"><i class="fa fa-linkedin w3-hover-opacity w3-jumbo"> </i></a>
+  <a href="https://www.linkedin.com/in/mallory-snow-a64bb4250/"><i class="fa fa-linkedin w3-hover-opacity w3-large"> </i></a>
 </footer>
 
 </body>
