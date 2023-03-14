@@ -26,7 +26,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="https://user-images.githubusercontent.com/79717225/224844331-aadb385b-debd-493b-9d38-e457cdac6883.png" style="display:block; margin-left: auto; margin-right: auto; width: 80%; padding:10px" alt="Avatar">
 	<hr>
-	<br>
+	
           <div class="w3-display-bottomcenter w3-container w3-text-black">
             <h2> Mallory A. Snow </h2>
           </div>
