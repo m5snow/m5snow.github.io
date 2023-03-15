@@ -45,9 +45,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           <p class="w3-large w3-text-dark-grey"><b>Coding Languages</b></p>
           <p>Python</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:95%">95%</div>
-          </div>
+	  <div class="w3-light-grey w3-round-xlarge w3-small">
+        	<div class="w3-round-xlarge w3-teal" style="height:18px;width:99%"></div>
+      	  </div>
+          	<!--<div class="w3-light-grey w3-round-xlarge w3-small">
+            	<div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:95%">95%</div>
+          	</div> -->
           <p>MatLab</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:85%">80%</div>
@@ -109,16 +112,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"><b>University of Waterloo</b></h4>
-          <h4 class="w3-text-dark-grey">Master's of Mathematics, Computer Science.</h4>
+          <h4 class="w3-text-black">Master's of Mathematics, Computer Science.</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Dec 2022</h6>
-	  <p> Specialization: Artificial Intelligence, (4.0 GPA) </p>
+	  <h6> Specialization: Artificial Intelligence, (4.0 GPA) </h6>
           <hr>
         </div>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"><b>Memorial University of Newfoundland</b></h4>
-          <h4 class="w3-text-dark-grey">Bachelor of Science, Computational Mathematics and Physics (double major)</h4>
+          <h4 class="w3-text-black">Bachelor of Science, Computational Mathematics and Physics (double major)</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sept 2016 - Dec 2020</h6>
-          <p>Specialization: Machine Learning and Theoretical Physics (4.0 GPA)</p>
+          <h6>Specialization: Machine Learning and Theoretical Physics (4.0 GPA)</h6>
           <hr>
         </div>
       </div>
@@ -130,14 +133,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
      <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"><b> Computer Science Teaching Assistant </b></h5>
-	  <h class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>University of Waterloo</h6>
+	  <h4 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>University of Waterloo</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
-          <!-- p>Worked as a teaching assistant for a variety of university computer science courses such as Designing Functional Programs, Algorithm Design and Data Abstraction, Computational Mathematics, Logic and Computation. I was responsible for marking large volumes of assignments and exams, proctoring in-person exams, and conducting regular office hours. </p -->
+          <!-- h6 >Worked as a teaching assistant for a variety of university computer science courses such as Designing Functional Programs, Algorithm Design and Data Abstraction, Computational Mathematics, Logic and Computation. I was responsible for marking large volumes of assignments and exams, proctoring in-person exams, and conducting regular office hours. </h6 -->
           <hr>
         </div>
       	<div class="w3-container">
-          <h5 class="w3-text-dark-grey"><b> Machine Learning Research Assistant </b></h5>
-	  <h6 class="w3-text-teal"><i class="fa-regular fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
+          <h4 class="w3-text-dark-grey"><b> Machine Learning Research Assistant </b></h4>
+	  <h4 class="w3-text-teal"><i class="fa-regular fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2020 - Aug 2020</h6>
           <!-- p> Funded by an NSERC Undergraduate Student Research Award (USRA). I assisted in a project to develop autoencoder Neural Networks (NNs) to detect certain features in images of fish for the university's biology department. I also researched and wrote literature reviews on various subtopics in ML (NNs, principal component analysis, data reduction, etc.).</p-->
           <hr>
