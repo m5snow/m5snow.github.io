@@ -47,7 +47,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
           <hr>
 
           <p class="w3-large w3-text-dark-grey"><b>Coding Languages</b></p>
-          <p>Python</p>
+          <h6>Python</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:95%"></div>
       	  </div>
@@ -55,22 +55,22 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
             	<div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:95%">95%</div>
           	</div> -->
           <br>
-	  <p>MatLab</p>
+	  <h6>MatLab</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:85%"></div>
       	  </div>
 	  <br>
-          <p>R</p>
+          <h6>R</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:75%"></div>
       	  </div>
 	  <br>
-          <p>SQL</p>
+          <h6>SQL</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:70%"></div>
       	  </div>
 	  <br>
-          <p>HTML/CSS</p>
+          <h6>HTML/CSS</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:65%"></div>
       	  </div>
@@ -78,17 +78,17 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
           <br>
 
           <p class="w3-large w3-text-theme  w3-text-dark-grey"><b>Skills</b></p>
-          <p><i class="fa-solid fa-brain fa-fw w3-margin-right w3-text-teal"></i>Critical Thinker</p>
+          <h6><i class="fa-solid fa-brain fa-fw w3-margin-right w3-text-teal"></i>Critical Thinker</h6>
           	<!-- <div class="w3-light-grey w3-round-xlarge w3-small">
             	<div class="w3-round-xlarge w3-teal" style="height:18px;width:99%"></div>
           	</div> -->
-          <p><i class="fa-solid fa-comments fa-fw w3-margin-right w3-text-teal"></i>Communication; written and verbal</p>
+          <h6><i class="fa-solid fa-comments fa-fw w3-margin-right w3-text-teal"></i>Communication; written and verbal</h6>
           
-          <p><i class="fa-solid fa-people-group fa-fw w3-margin-right w3-text-teal"></i>Leadership </p>
+          <h6><i class="fa-solid fa-people-group fa-fw w3-margin-right w3-text-teal"></i>Leadership </h6>
 
-          <p><i class="fa-solid fa-handshake fa-fw w3-margin-right w3-text-teal"></i>Collaboration; Team building </p>
+          <h6><i class="fa-solid fa-handshake fa-fw w3-margin-right w3-text-teal"></i>Collaboration; Team building </h6>
 
-          <p><i class="fa-solid fa-list-check fa-fw w3-margin-right w3-text-teal"></i>Organization </p><br>
+          <h6><i class="fa-solid fa-list-check fa-fw w3-margin-right w3-text-teal"></i>Organization </h6><br>
 	
 	
           <p class="w3-large w3-text-theme  w3-text-dark-grey"><b> Interests </b></p>
@@ -148,7 +148,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
       	<div class="w3-container">
           <h4 class="w3-text-dark-grey"><b> Machine Learning Research Assistant </b></h4>
 	  <h6 class="w3-text-grey"> Funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) </h6>
-	  <h6 class="w3-text-teal"><i class="fa-regular fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
+	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2020 - Aug 2020</h6>
           <!-- p> Funded by an NSERC Undergraduate Student Research Award (USRA). I assisted in a project to develop autoencoder Neural Networks (NNs) to detect certain features in images of fish for the university's biology department. I also researched and wrote literature reviews on various subtopics in ML (NNs, principal component analysis, data reduction, etc.).</p-->
           <hr>
@@ -211,7 +211,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa-duotone fa-screen-users fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Conferences & Workshops</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-screen-users fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Conferences & Workshops</h2>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"> Conference Speaker (26% acceptance rate) </h4>
 	  <h6> Annual Cognitive Science Society 2022 in Toronto, Canada.</h6>
