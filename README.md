@@ -46,27 +46,31 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p class="w3-large w3-text-dark-grey"><b>Coding Languages</b></p>
           <p>Python</p>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
-        	<div class="w3-round-xlarge w3-teal" style="height:18px;width:99%"></div>
+        	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:95%"></div>
       	  </div>
           	<!--<div class="w3-light-grey w3-round-xlarge w3-small">
             	<div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:95%">95%</div>
           	</div> -->
-          <p>MatLab</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:85%">80%</div>
-            </div>
+          <br>
+	  <p>MatLab</p>
+	  <div class="w3-light-grey w3-round-xlarge w3-small">
+        	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:85%"></div>
+      	  </div>
+	  <br>
           <p>R</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:75%">75%</div>
-          </div>
+	  <div class="w3-light-grey w3-round-xlarge w3-small">
+        	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:75%"></div>
+      	  </div>
+	  <br>
           <p>SQL</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:75%">75%</div>
-          </div>
+	  <div class="w3-light-grey w3-round-xlarge w3-small">
+        	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:70%"></div>
+      	  </div>
+	  <br>
           <p>HTML/CSS</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:60%">60%</div>
-          </div>
+	  <div class="w3-light-grey w3-round-xlarge w3-small">
+        	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:65%"></div>
+      	  </div>
 	<br>
           <br>
 
@@ -133,27 +137,27 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
      <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"> Computer Science Teaching Assistant </h4>
-	  <h4 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>University of Waterloo</h4>
+	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>University of Waterloo</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
           <!-- h6 >Worked as a teaching assistant for a variety of university computer science courses such as Designing Functional Programs, Algorithm Design and Data Abstraction, Computational Mathematics, Logic and Computation. I was responsible for marking large volumes of assignments and exams, proctoring in-person exams, and conducting regular office hours. </h6 -->
           <hr>
         </div>
       	<div class="w3-container">
           <h4 class="w3-text-dark-grey"><b> Machine Learning Research Assistant </b></h4>
-	  <h4 class="w3-text-teal"><i class="fa-regular fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h4>
+	  <h6 class="w3-text-teal"><i class="fa-regular fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2020 - Aug 2020</h6>
           <!-- p> Funded by an NSERC Undergraduate Student Research Award (USRA). I assisted in a project to develop autoencoder Neural Networks (NNs) to detect certain features in images of fish for the university's biology department. I also researched and wrote literature reviews on various subtopics in ML (NNs, principal component analysis, data reduction, etc.).</p-->
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-text-dark-grey"><b> Mathematics Teaching Assistant </b></h5>
+          <h4 class="w3-text-dark-grey"> Mathematics Teaching Assistant </h4>
 	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2019 - Dec 2020</h6>
           <!-- p>details go here</p -->
         </div>
 	<hr>
         <div class="w3-container">
-          <h5 class="w3-text-dark-grey"><b> Nuclear/Particle Physics Research Assistant </b></h5>
+          <h4 class="w3-text-dark-grey"> Nuclear/Particle Physics Research Assistant </h4>
 	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
 
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2018 - Aug 2018</h6>
@@ -168,14 +172,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	<div class="w3-container w3-card w3-white">
     	<h2 class="w3-text-grey w3-padding-16"><i class="fa fa-file fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
          <div class="w3-container">
-           <h5 class="w3-text-dark-grey"><b>Biological Plausibility in Modern Hopfield Networks</b></h5>
+           <h4 class="w3-text-dark-grey">Biological Plausibility in Modern Hopfield Networks</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
-           <p>details go here</p><br>
+           <h6>details go here</h6><br>
          </div>
          <div class="w3-container">
-           <h5 class="w3-text-dark-grey"><b>Leveraging Bayesian Neural Networks for Adversarial Attack and Defense</b></h5>
+           <h4 class="w3-text-dark-grey">Leveraging Bayesian Neural Networks for Adversarial Attack and Defense</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Apr 2021</h6>
-           <p>details go here</p><hr>
+           <h6>details go here</h6><hr>
          </div>
        
 
@@ -187,17 +191,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-hand-holding-hand fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Other Involvement </h2>
         <div class="w3-container">
-          <h5 class="w3-text-dark-grey"><b> Conference Speaker </b></h5>
-	  <p> Annual Cognitive Science Society 2022</p>
+          <h4 class="w3-text-dark-grey"> Conference Speaker </h4>
+	  <h6> Annual Cognitive Science Society 2022</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>July 2022</h6>
-          <p>details.</p>
+          <h6>details.</h6>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-text-dark-grey"><b>SPARCS Workshop Volunteer </b></h5>
-	  <p> University of Waterloo (Centre for Education in Mathematics and Computing) </p>
+          <h4 class="w3-text-dark-grey">SPARCS Workshop Volunteer </h4>
+	  <h4> University of Waterloo (Centre for Education in Mathematics and Computing) </h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p>details go here</p>
+          <h6>details go here</h6>
           <hr>
         </div>
 
