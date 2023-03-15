@@ -202,7 +202,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa-solid fa-screen-users fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Conferences & Workshops</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-people-line fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Conferences & Workshops</h2>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"> Conference Speaker (26% acceptance rate) </h4>
 	  <h6> Annual Cognitive Science Society 2022 in Toronto, Canada.</h6>
