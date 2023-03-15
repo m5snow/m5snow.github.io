@@ -95,7 +95,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
           <p><i class="fa-solid fa-chart-line fa-fw w3-margin-right w3-text-teal"></i> Data Science and Analytics </p>
 
-          <p><i class="fa-solid fa-computer fa-fw w3-margin-right w3-text-teal"></i>Web Development </p>
+          <p><i class="fa-solid fa-computer fa-fw w3-margin-right w3-text-teal"></i>Web Design </p>
 
           <p><i class="fa-solid fa-globe fa-fw w3-margin-right w3-text-teal"></i>Environmental Science; GIS </p>
 
@@ -175,16 +175,26 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
            <h4 class="w3-text-dark-grey">Biological Plausibility in Modern Hopfield Networks</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
            <h6>This work was for my master's thesis; I investigated the biological plausibility of modern Hopfield Networks and developed a model of associative memory that is more biologically realistic. </h6>
-	   <a href="https://uwspace.uwaterloo.ca/handle/10012/18965"><h6> <u>Click here to read my thesis! </u></h6></a>
+	   <a href="https://uwspace.uwaterloo.ca/handle/10012/18965"><h6> <u>Click here to read my thesis </u></h6></a>
          </div>
 	 <hr>
+	<div class="w3-container">
+           <h4 class="w3-text-dark-grey">Engagement and Trust: How People Process and Fact-Check Online News</h4>
+           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2021 - Aug 2021</h6>
+           <h6>Designed a HCI/UX experiment that focused on how users navigate false information online. More specifically, to study whether there is a relationship between how engaging and trustworthy people perceive online content. Held interviews with participants, then transcribed and coded all interview responses. Performed statistical analysis on interview responses and presented findings in the form of a paper and an oral presentation.</h6>
+           <h6>This was a group project in which we investigated how Bayesian NNs could be used to defend Convolutional NNs (CNNs) against adversarial attacks. The CNNs were of the LeNet architecture, and the training and testing was done using the MNIST dataset </h6>
+	   <a href=[How Do People Process Information Online.pdf](https://github.com/m5snow/m5snow.github.io/files/10982133/How.Do.People.Process.Information.Online.pdf)
+ ><h6> <u>Click here for presentation</u></h6></a>	 
+         </div>
+	<hr>
          <div class="w3-container">
            <h4 class="w3-text-dark-grey">Leveraging Bayesian Neural Networks for Adversarial Attack and Defense</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Apr 2021</h6>
            <h6>This was a group project in which we investigated how Bayesian NNs could be used to defend Convolutional NNs (CNNs) against adversarial attacks. The CNNs were of the LeNet architecture, and the training and testing was done using the MNIST dataset </h6>
 	   <a href="https://github.com/ashishgaurav13/adv-bnn"><h6> <u>Click here for GitHub repo </u></h6></a>
-	 <hr>
+	 <hr>	 
          </div>
+
        
 
 	</div>
