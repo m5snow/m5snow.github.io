@@ -181,19 +181,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	<div class="w3-container">
            <h4 class="w3-text-dark-grey">Engagement and Trust: How People Process and Fact-Check Online News</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2021 - Aug 2021</h6>
-           <h6>Designed a HCI/UX experiment that focused on how users navigate false information online. More specifically, to study whether there is a relationship between how engaging and trustworthy people perceive online content. Held interviews with participants, then transcribed and coded all interview responses. Performed statistical analysis on interview responses and presented findings in the form of a paper and an oral presentation.</h6>
+           <h6>Designed a HCI/UX experiment that focused on how users navigate false information online. More specifically, to study whether there is a relationship between how engaging and trustworthy people perceive online content. </h6>
 	   <a href="https://github.com/m5snow/m5snow.github.io/files/10982133/How.Do.People.Process.Information.Online.pdf" ><h6> <u>Click here for presentation</u></h6></a>	 
          </div>
 	<hr>
          <div class="w3-container">
            <h4 class="w3-text-dark-grey">Leveraging Bayesian Neural Networks for Adversarial Attack and Defense</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Apr 2021</h6>
-           <h6>This was a group project in which we investigated how Bayesian NNs could be used to defend Convolutional NNs (CNNs) against adversarial attacks. The CNNs were of the LeNet architecture, and the training and testing was done using the MNIST dataset </h6>
+           <h6>This was a group project in which we investigated how Bayesian NNs could be used to defend Convolutional NNs (CNNs) against adversarial attacks. The CNNs were of the LeNet architecture, and the training and testing was done using the MNIST dataset. </h6>
 	   <a href="https://github.com/ashishgaurav13/adv-bnn"><h6> <u>Click here for GitHub repo </u></h6></a>
 	 <hr>	 
          </div>
 	 <div class="w3-container">
-           <h4 class="w3-text-dark-grey">Leveraging Bayesian Neural Networks for Adversarial Attack and Defense</h4>
+           <h4 class="w3-text-dark-grey">Numerical Solutions of the One-phase Classical Stephan Problem</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Apr 2021</h6>
            <h6>Used numerical methods in MatLab to model the transition of glaciers into water (i.e., the  Stefan Problem). Analyzed solutions to this problem using three finite difference methods and compared the results to real data in the form of a paper and an oral presentation. </h6>
 	   <a href="https://github.com/m5snow/m5snow.github.io/files/10982232/Numerical_Solutions_of_the_One_Phase_Classical_Stefan_Problem.pdf"
@@ -215,14 +215,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h4 class="w3-text-dark-grey"> Conference Speaker </h4>
 	  <h6> Annual Cognitive Science Society 2022</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>July 2022</h6>
-          <h6>details.</h6>
+          <h6>I presented some of my thesis research as a talk (26% acceptance rate) in Toronto, Canada.</h6>
+	  <a href=https://escholarship.org/uc/item/3jd1t2hr> <h6> <u>Snow, M.A., & Orchard, J. (2022). Biological Softmax: Demonstrated in Modern Hopfield Networks. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)</u></h6> </a>
           <hr>
         </div>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey">SPARCS Workshop Volunteer </h4>
 	  <h6> University of Waterloo (Centre for Education in Mathematics and Computing) </h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <h6>details go here</h6>
+          <h6>I volunteered to be a speaker at the SPARCS work shop which is designed for female, non-binary, and trans students to ignite enthusiasm for coding among gender identities that are underrepresented in computer science.</h6>
           <hr>
         </div>
 
