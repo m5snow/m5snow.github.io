@@ -174,14 +174,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
          <div class="w3-container">
            <h4 class="w3-text-dark-grey">Biological Plausibility in Modern Hopfield Networks</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
-           <h6>This work involved creating a more biologically accurate model of associative memory. </h6>
-	   <a href="https://uwspace.uwaterloo.ca/handle/10012/18965"><h6> Click here to read my thesis! </h6></a>
+           <h6>This work was for my master's thesis; I investigated the biological plausibility of modern Hopfield Networks and developed a model of associative memory that is more biologically realistic. </h6>
+	   <a href="https://uwspace.uwaterloo.ca/handle/10012/18965"><h6> <u>Click here to read my thesis! </u></h6></a>
          </div>
 	 <hr>
          <div class="w3-container">
            <h4 class="w3-text-dark-grey">Leveraging Bayesian Neural Networks for Adversarial Attack and Defense</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Apr 2021</h6>
-           <h6>details go here</h6><hr>
+           <h6>This was a group project in which we investigated how Bayesian NNs could be used to defend Convolutional NNs (CNNs) against adversarial attacks. The CNNs were of the LeNet architecture, and the training and testing was done using the MNIST dataset </h6>
+	   <a href="https://github.com/ashishgaurav13/adv-bnn"><h6> <u>Click here for GitHub repo </u></h6></a>
+	 <hr>
          </div>
        
 
