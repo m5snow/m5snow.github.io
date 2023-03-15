@@ -54,28 +54,25 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
           	<!--<div class="w3-light-grey w3-round-xlarge w3-small">
             	<div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:95%">95%</div>
           	</div> -->
-          <br>
 	  <h6>MatLab</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:85%"></div>
       	  </div>
-	  <br>
           <h6>R</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:75%"></div>
       	  </div>
-	  <br>
           <h6>SQL</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:70%"></div>
       	  </div>
-	  <br>
           <h6>HTML/CSS</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
         	<div class="w3-round-xlarge w3-pale-red" style="height:15px;width:65%"></div>
       	  </div>
-	<br>
+	  <br>
           <br>
+	<br>
 
           <p class="w3-large w3-text-theme  w3-text-dark-grey"><b>Skills</b></p>
           <h6><i class="fa-solid fa-brain fa-fw w3-margin-right w3-text-teal"></i>Critical Thinker</h6>
@@ -83,24 +80,18 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
             	<div class="w3-round-xlarge w3-teal" style="height:18px;width:99%"></div>
           	</div> -->
           <h6><i class="fa-solid fa-comments fa-fw w3-margin-right w3-text-teal"></i>Communication; written and verbal</h6>
-          
           <h6><i class="fa-solid fa-people-group fa-fw w3-margin-right w3-text-teal"></i>Leadership </h6>
-
           <h6><i class="fa-solid fa-handshake fa-fw w3-margin-right w3-text-teal"></i>Collaboration; Team building </h6>
-
           <h6><i class="fa-solid fa-list-check fa-fw w3-margin-right w3-text-teal"></i>Organization </h6><br>
-	
+	<br>
+	<br>
 	
           <p class="w3-large w3-text-theme  w3-text-dark-grey"><b> Interests </b></p>
-          <p><i class="fa-solid fa-robot fa-fw w3-margin-right w3-text-teal"></i>Artificial Intelligence; Machine Learning</p>
-          
-          <p><i class="fa-solid fa-person-chalkboard fa-fw w3-margin-right w3-text-teal"></i>Human Computer Interaction; User Experience</p>
-          
-          <p><i class="fa-solid fa-chart-line fa-fw w3-margin-right w3-text-teal"></i>Data Science and Analytics </p>
-
-          <p><i class="fa-solid fa-computer fa-fw w3-margin-right w3-text-teal"></i>Web Design </p>
-
-          <p><i class="fa-solid fa-globe fa-fw w3-margin-right w3-text-teal"></i>Environmental Science; GIS </p>
+          <h6><i class="fa-solid fa-robot fa-fw w3-margin-right w3-text-teal"></i>Artificial Intelligence; Machine Learning</h6>
+          <h6><i class="fa-solid fa-person-chalkboard fa-fw w3-margin-right w3-text-teal"></i>Human Computer Interaction; User Experience</h6>
+          <h6><i class="fa-solid fa-chart-line fa-fw w3-margin-right w3-text-teal"></i>Data Science and Analytics </h6>
+          <h6><i class="fa-solid fa-computer fa-fw w3-margin-right w3-text-teal"></i>Web Design </h6>
+          <h6><i class="fa-solid fa-globe fa-fw w3-margin-right w3-text-teal"></i>Environmental Science; GIS </h6>
 
           <br>
         </div>
@@ -211,7 +202,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-screen-users fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Conferences & Workshops</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa-solid fa-screen-users fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Conferences & Workshops</h2>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"> Conference Speaker (26% acceptance rate) </h4>
 	  <h6> Annual Cognitive Science Society 2022 in Toronto, Canada.</h6>
