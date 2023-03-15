@@ -14,7 +14,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 }
 </style>
 </head>
-<body class="w3-light-grey">
+<body class="w3-light-grey container-fluid">
 
 <!-- CURRENT: <span class="w3-tag w3-teal w3-round">Current</span> -->
 
