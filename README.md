@@ -220,7 +220,7 @@ border: 5px solid pale-red;
 	  <h6> Annual Cognitive Science Society 2022</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>July 2022</h6>
           <h6>I presented some of my thesis work as a talk (26% acceptance rate) in Toronto, Canada.</h6>
-	  <a href=https://escholarship.org/uc/item/3jd1t2hr <h6> <u>Snow, M.A., & Orchard, J. (2022). Biological Softmax: Demonstrated in Modern Hopfield Networks. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)</u></h6> </a>
+	  <a href="https://escholarship.org/uc/item/3jd1t2hr"> <h6> <u>Snow, M.A., & Orchard, J. (2022). Biological Softmax: Demonstrated in Modern Hopfield Networks. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)</u></h6> </a>
           <hr>
         </div>
         <div class="w3-container">
