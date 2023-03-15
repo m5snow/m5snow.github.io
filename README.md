@@ -117,15 +117,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h4 class="w3-text-dark-grey">University of Waterloo</h4>
           <h4 class="w3-text-dark-grey">Master's of Mathematics, Computer Science</h4>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Dec 2022</h6>
 	  <h6> Specialization: Artificial Intelligence (4.0 GPA, 94% Avg.) </h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Dec 2022</h6>
           <hr>
         </div>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey">Memorial University of Newfoundland</h4>
           <h4 class="w3-text-dark-grey">Bachelor of Science, Computational Mathematics and Physics <br>(double major)</h4>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sept 2016 - Dec 2020</h6>
           <h6>Specialization: Machine Learning and Theoretical Physics (4.0 GPA, 92% Avg.)</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sept 2016 - Dec 2020</h6>
           <hr>
         </div>
       </div>
