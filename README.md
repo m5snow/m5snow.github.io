@@ -93,7 +93,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
           <p><i class="fa-solid fa-person-chalkboard fa-fw w3-margin-right w3-text-teal"></i>Human Computer Interaction; User Experience</p>
           
-          <p><i class="fa-solid fa-chart-line fa-fw w3-margin-right w3-text-teal"></i> Data Science and Analytics </p>
+          <p><i class="fa-solid fa-chart-line fa-fw w3-margin-right w3-text-teal"></i>Data Science and Analytics </p>
 
           <p><i class="fa-solid fa-computer fa-fw w3-margin-right w3-text-teal"></i>Web Design </p>
 
@@ -116,16 +116,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey">University of Waterloo</h4>
-          <h4 class="w3-text-dark-grey">Master's of Mathematics, Computer Science.</h4>
+          <h4 class="w3-text-dark-grey">Master's of Mathematics, Computer Science</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Dec 2022</h6>
-	  <h6> Specialization: Artificial Intelligence, (4.0 GPA) </h6>
+	  <h6> Specialization: Artificial Intelligence (4.0 GPA, 94% Avg.) </h6>
           <hr>
         </div>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey">Memorial University of Newfoundland</h4>
-          <h4 class="w3-text-dark-grey">Bachelor of Science, Computational Mathematics and Physics (double major)</h4>
+          <h4 class="w3-text-dark-grey">Bachelor of Science, Computational Mathematics and Physics <br>(double major)</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sept 2016 - Dec 2020</h6>
-          <h6>Specialization: Machine Learning and Theoretical Physics (4.0 GPA)</h6>
+          <h6>Specialization: Machine Learning and Theoretical Physics (4.0 GPA, 92% Avg.)</h6>
           <hr>
         </div>
       </div>
@@ -144,6 +144,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
       	<div class="w3-container">
           <h4 class="w3-text-dark-grey"><b> Machine Learning Research Assistant </b></h4>
+	  <h6 class="w3-text-grey"> Funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) </h6>
 	  <h6 class="w3-text-teal"><i class="fa-regular fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2020 - Aug 2020</h6>
           <!-- p> Funded by an NSERC Undergraduate Student Research Award (USRA). I assisted in a project to develop autoencoder Neural Networks (NNs) to detect certain features in images of fish for the university's biology department. I also researched and wrote literature reviews on various subtopics in ML (NNs, principal component analysis, data reduction, etc.).</p-->
@@ -158,7 +159,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	<hr>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"> Nuclear/Particle Physics Research Assistant </h4>
-	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
+	  <h6 class="w3-text-grey"> Funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) and the Canadian Institute of Nuclear Physics (CINP) </h6>
+	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland </h6>
 
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2018 - Aug 2018</h6>
           <!-- p>details go here</p --> <hr>
@@ -215,15 +217,22 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h4 class="w3-text-dark-grey"> Conference Speaker </h4>
 	  <h6> Annual Cognitive Science Society 2022</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>July 2022</h6>
-          <h6>I presented some of my thesis research as a talk (26% acceptance rate) in Toronto, Canada.</h6>
+          <h6>I presented some of my thesis work as a talk (26% acceptance rate) in Toronto, Canada.</h6>
 	  <a href=https://escholarship.org/uc/item/3jd1t2hr> <h6> <u>Snow, M.A., & Orchard, J. (2022). Biological Softmax: Demonstrated in Modern Hopfield Networks. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)</u></h6> </a>
           <hr>
         </div>
         <div class="w3-container">
-          <h4 class="w3-text-dark-grey">SPARCS Workshop Volunteer </h4>
+          <h4 class="w3-text-dark-grey"> SPARCS Workshop Volunteer </h4>
 	  <h6> University of Waterloo (Centre for Education in Mathematics and Computing) </h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
           <h6>I volunteered to be a speaker at the SPARCS work shop which is designed for female, non-binary, and trans students to ignite enthusiasm for coding among gender identities that are underrepresented in computer science.</h6>
+          <hr>
+        </div>
+	<div class="w3-container">
+          <h4 class="w3-text-dark-grey"> Poster Presenter </h4>
+	  <h6> University of Waterloo (Centre for Education in Mathematics and Computing) </h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
+          <h6>Took part in the Research Week 2019 poster session at Grenfell campus. I presented a poster showcasing the research I conducted during my particle physics research grant.</h6>
           <hr>
         </div>
 
