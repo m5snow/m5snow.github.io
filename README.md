@@ -214,27 +214,32 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-hand-holding-hand fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Other Involvement </h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-hand-holding-hand fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Conferences & Workshops</h2>
         <div class="w3-container">
-          <h4 class="w3-text-dark-grey"> Conference Speaker </h4>
+          <h4 class="w3-text-dark-grey"> Conference Speaker (26% acceptance rate)</h4>
 	  <h6> Annual Cognitive Science Society 2022</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>July 2022</h6>
-          <h6>I presented some of my thesis work as a talk (26% acceptance rate) in Toronto, Canada.</h6>
+          <!-- <h6>I presented some of my thesis work as a talk  in Toronto, Canada.</h6> -->
 	  <a href="https://escholarship.org/uc/item/3jd1t2hr"> <h6> <u>Snow, M.A., & Orchard, J. (2022). Biological Softmax: Demonstrated in Modern Hopfield Networks. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)</u></h6> </a>
           <hr>
         </div>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"> SPARCS Workshop Volunteer </h4>
 	  <h6> University of Waterloo (Centre for Education in Mathematics and Computing) </h6>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <h6>I volunteered to be a speaker at the SPARCS work shop which is designed for female, non-binary, and trans students to ignite enthusiasm for coding among gender identities that are underrepresented in computer science.</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2022</h6>
+          <!-- <h6>I volunteered to be a speaker at the SPARCS work shop which is designed for female, non-binary, and trans students to ignite enthusiasm for coding among gender identities that are underrepresented in computer science.</h6> -->
           <hr>
         </div>
 	<div class="w3-container">
-          <h4 class="w3-text-dark-grey"> Poster Presenter </h4>
-	  <h6> University of Waterloo (Centre for Education in Mathematics and Computing) </h6>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <h6>Took part in the Research Week 2019 poster session at Grenfell campus. I presented a poster showcasing the research I conducted during my particle physics research grant.</h6>
+          <h4 class="w3-text-dark-grey"> Conference Attendee </h4>
+	  <h6> The Interdisciplinary College (IK) </h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2022</h6>
+          <hr>
+        </div>
+	<div class="w3-container">
+          <h4 class="w3-text-dark-grey"> Research Poster Presenter </h4>
+	  <h6> Grenfell Campus, Memorial University of Newfoundland</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Nov 2019</h6>
           <hr>
         </div>
 
