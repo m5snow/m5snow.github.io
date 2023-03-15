@@ -10,7 +10,7 @@
 <style>
 html,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 body {
-border: 5px solid; border-color: rgba(250, 200, 200, 0.8);
+border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 }
 </style>
 </head>
