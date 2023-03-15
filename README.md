@@ -111,15 +111,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-container w3-card w3-white">
     <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
-          <h4 class="w3-text-dark-grey"><b>University of Waterloo</b></h4>
-          <h4 class="w3-text-black">Master's of Mathematics, Computer Science.</h4>
+          <h4 class="w3-text-dark-grey">University of Waterloo</h4>
+          <h4 class="w3-text-dark-grey">Master's of Mathematics, Computer Science.</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Dec 2022</h6>
 	  <h6> Specialization: Artificial Intelligence, (4.0 GPA) </h6>
           <hr>
         </div>
         <div class="w3-container">
-          <h4 class="w3-text-dark-grey"><b>Memorial University of Newfoundland</b></h4>
-          <h4 class="w3-text-black">Bachelor of Science, Computational Mathematics and Physics (double major)</h4>
+          <h4 class="w3-text-dark-grey">Memorial University of Newfoundland</h4>
+          <h4 class="w3-text-dark-grey">Bachelor of Science, Computational Mathematics and Physics (double major)</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sept 2016 - Dec 2020</h6>
           <h6>Specialization: Machine Learning and Theoretical Physics (4.0 GPA)</h6>
           <hr>
@@ -132,7 +132,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
      <div class="w3-container w3-card w3-white">
      <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
-          <h4 class="w3-text-dark-grey"><b> Computer Science Teaching Assistant </b></h5>
+          <h4 class="w3-text-dark-grey"> Computer Science Teaching Assistant </h4>
 	  <h4 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>University of Waterloo</h4>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
           <!-- h6 >Worked as a teaching assistant for a variety of university computer science courses such as Designing Functional Programs, Algorithm Design and Data Abstraction, Computational Mathematics, Logic and Computation. I was responsible for marking large volumes of assignments and exams, proctoring in-person exams, and conducting regular office hours. </h6 -->
