@@ -174,8 +174,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
          <div class="w3-container">
            <h4 class="w3-text-dark-grey">Biological Plausibility in Modern Hopfield Networks</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
-           <h6>details go here</h6><br>
+           <h6>This work involved creating a more biologically accurate model of associative memory. </h6>
+	   <a href="https://uwspace.uwaterloo.ca/handle/10012/18965"><h6> Click here to read my thesis! </h6></a>
          </div>
+	 <hr>
          <div class="w3-container">
            <h4 class="w3-text-dark-grey">Leveraging Bayesian Neural Networks for Adversarial Attack and Defense</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Apr 2021</h6>
@@ -199,7 +201,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey">SPARCS Workshop Volunteer </h4>
-	  <h4> University of Waterloo (Centre for Education in Mathematics and Computing) </h4>
+	  <h6> University of Waterloo (Centre for Education in Mathematics and Computing) </h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
           <h6>details go here</h6>
           <hr>
