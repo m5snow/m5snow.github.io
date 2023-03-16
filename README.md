@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
-<link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/79717225/225662101-60a6022a-9356-46b2-a5dd-76031b3980f2.png" />
+<link rel="icon" type="image/x-icon" href="flower.ico" />
 	
 
 <style>
@@ -160,7 +160,8 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland </h6>
 
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2018 - Aug 2018</h6>
-          <!-- p>details go here</p --> <hr>
+          <a href="https://www.grenfell.mun.ca/campus-services/Pages/News-Description.aspx?NewsID=277"><h6><u>Click here for newspaper article</u></h6> </a>
+ 	<hr>
         </div>
 	
 	</div>
@@ -231,7 +232,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
           <h4 class="w3-text-dark-grey"> Research Week 2019 Poster Presenter </h4>
 	  <h6> Grenfell Campus, Memorial University of Newfoundland</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Nov 2019</h6>
-	  <a href="https://github.com/m5snow/m5snow.github.io/files/10992569/ResearchPoster2019.pdf"> <h6> <u>CLick here for poster</u></h6> </a>
+	  <a href="https://github.com/m5snow/m5snow.github.io/files/10992569/ResearchPoster2019.pdf"> <h6> <u>Click here for poster</u></h6> </a>
           <hr>
         </div>
 
