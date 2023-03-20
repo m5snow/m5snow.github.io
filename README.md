@@ -44,7 +44,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i> malloryasnow@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(709) 660 3019</p>
 	  <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Newfoundland, Canada</p>
-          <a href = "https://github.com/m5snow/m5snow.github.io/files/10985118/CV_MSnow.pdf">
+          <a href = "https://github.com/m5snow/m5snow.github.io/files/11019575/CV_MSnow.pdf">
 <p><i class="fa-regular fa-file fa-fw w3-margin-right w3-large w3-text-teal"></i> Download my CV </p> </a>
 
           <hr>
