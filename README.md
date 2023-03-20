@@ -23,7 +23,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 
 
 <!-- Page Container -->
-<div class="w3-content w3-margin-top">
+<div class="w3-main w3-margin-top">
 
   <!-- The Grid -->
   <div class="w3-row-padding">
