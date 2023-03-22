@@ -52,7 +52,7 @@ border: 25px double; border-color: rgba(250, 200, 200, 0.8);
           <p class="w3-large w3-text-dark-grey"><b>Coding Languages</b></p>
           <h6>Python</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
-        	<div class="w3-round-xlarge" style="height:20px; width:90%; color: rgba(250, 200, 200, 0.9)"></div>
+        	<div class="w3-round-xlarge" style="color: rgb(250, 200, 200); height:20px; width:90%;"></div>
       	  </div>
           	<!--<div class="w3-light-grey w3-round-xlarge w3-small">
             	<div class="w3-container w3-center w3-round-xlarge w3-pale-red" style="width:95%">95%</div>
@@ -67,7 +67,7 @@ border: 25px double; border-color: rgba(250, 200, 200, 0.8);
       	  </div>
           <h6>SQL</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
-        	<div class="w3-round-xlarge w3-pale-red" style="height:20px;width:650%"></div>
+        	<div class="w3-round-xlarge w3-pale-red" style="height:20px;width:65%"></div>
       	  </div>
           <h6>HTML/CSS</h6>
 	  <div class="w3-light-grey w3-round-xlarge w3-small">
