@@ -89,9 +89,10 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
             	<div class="w3-round-xlarge w3-teal" style="height:18px;width:99%"></div>
           	</div> -->
           <h6><i class="fa-solid fa-comments fa-fw w3-margin-right w3-text-teal"></i>Communication; written and verbal</h6>
-          <h6><i class="fa-solid fa-people-group fa-fw w3-margin-right w3-text-teal"></i>Leadership </h6>
           <h6><i class="fa-solid fa-handshake fa-fw w3-margin-right w3-text-teal"></i>Collaboration; Team building </h6>
-          <h6><i class="fa-solid fa-list-check fa-fw w3-margin-right w3-text-teal"></i>Organization </h6><br>
+          <h6><i class="fa-solid fa-list-check fa-fw w3-margin-right w3-text-teal"></i>Organization </h6>
+	  <h6><i class="fa-solid fa-people-group fa-fw w3-margin-right w3-text-teal"></i>Leadership </h6>
+        <br>
 	<br>
 	<br>
 	
@@ -257,9 +258,8 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 </div>
 
 
-<footer class="w3-container w3-teal w3-center w3-margin-top">
-
-</footer>
+<!--<footer class="w3-container w3-teal w3-center w3-margin-top">
+</footer> -->
 
 </body>
 </html>
