@@ -13,7 +13,7 @@
 <style>
 html,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 body {100%;
-border: 25px double; border-color: rgba(250, 200, 200, 0.8);
+border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 }
 </style>
 </head>
@@ -45,9 +45,15 @@ border: 25px double; border-color: rgba(250, 200, 200, 0.8);
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(709) 660 3019</p>
 	  <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Newfoundland, Canada</p>
           <a href = "https://github.com/m5snow/m5snow.github.io/files/11019575/CV_MSnow.pdf">
-<p><i class="fa-regular fa-file fa-fw w3-margin-right w3-large w3-text-teal"></i> Download my CV </p> </a>
-
-          <hr>
+	 	<p><i class="fa-regular fa-file w3-hover-opacity fa-fw w3-margin-right w3-large w3-text-teal"></i> Download my detailed CV </p> </a>
+	  <a href = "https://github.com/m5snow/m5snow.github.io/files/11056317/MSNOW--CV.pdf">
+		<p><i class="fa-regular fa-file w3-hover-opacity fa-fw w3-margin-right w3-large w3-text-teal"></i> Download my 1-page resume </p> </a>
+	<a href="https://github.com/m5snow">
+		<p><i class="fa fa-github w3-hover-opacity fa-fw w3-margin-right w3-large w3-text-teal"></i> GitHub profile</p></a>
+ 	<a href="https://www.linkedin.com/in/mallory-snow-a64bb4250/">
+		<p><i class="fa fa-linkedin w3-hover-opacity fa-fw w3-margin-right w3-large w3-text-teal"> </i> LinkedIn profile </p></a>
+         
+		<hr>
 
           <p class="w3-large w3-text-dark-grey"><b>Coding Languages</b></p>
           <h6>Python</h6>
@@ -252,14 +258,6 @@ border: 25px double; border-color: rgba(250, 200, 200, 0.8);
 
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
-  <p>Find me elsewhere:</p>
-  <a href="https://github.com/m5snow"><i class="fa fa-github w3-hover-opacity w3-jumbo"></i></a>
-  <!-- <i class="fa fa-instagram w3-hover-opacity w3-xxxlarge"> </i> -->
-  
-
-  <a href="https://www.linkedin.com/in/mallory-snow-a64bb4250/"><i class="fa fa-linkedin w3-hover-opacity w3-jumbo"> </i></a>
-
-
 
 </footer>
 
