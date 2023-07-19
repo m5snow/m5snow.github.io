@@ -120,7 +120,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
     <div class="w3-container w3-card w3-white">
     <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
-	<a href=""https://github.com/m5snow/m5snow.github.io/main/Projects.md">
+	<a href="https://github.com/m5snow/m5snow.github.io/main/Projects.md">
 		<p> Click here for another website </p></a>
           <h4 class="w3-text-dark-grey">University of Waterloo</h4>
           <h4 class="w3-text-dark-grey">Master's of Mathematics, Computer Science</h4>
