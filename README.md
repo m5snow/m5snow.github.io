@@ -141,10 +141,17 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
      <div class="w3-container w3-card w3-white">
      <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
+          <h4 class="w3-text-dark-grey"> Mathematics Instructor </h4>
+	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland (Grenfell Campus)</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
+          <!-- h6 > Instructed Calculus I (MATH 1000) at MUN Grenfell Campus during intersession (condensed delivery). Designed course layout/syllabus. Created and delivered lectures. Created and evaluated assignments and exams. Proctored midterm and final exams. Managed office hours, and review sessions. </h6 -->
+          <hr>
+        </div>
+        <div class="w3-container">
           <h4 class="w3-text-dark-grey"> Computer Science Teaching Assistant </h4>
 	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>University of Waterloo</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
-          <!-- h6 >Worked as a teaching assistant for a variety of university computer science courses such as Designing Functional Programs, Algorithm Design and Data Abstraction, Computational Mathematics, Logic and Computation. I was responsible for marking large volumes of assignments and exams, proctoring in-person exams, and conducting regular office hours. </h6 -->
+          <!-- h6 > Worked as a teaching assistant for a variety of university computer science courses such as Designing Functional Programs, Algorithm Design and Data Abstraction, Computational Mathematics, Logic and Computation. Markied large volumes of assignments and exams, proctored in-person exams, and conducted regular office hours. </h6 -->
           <hr>
         </div>
       	<div class="w3-container">
@@ -152,7 +159,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 	  <h6 class="w3-text-grey"> Funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) </h6>
 	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2020 - Aug 2020</h6>
-          <!-- p> Funded by an NSERC Undergraduate Student Research Award (USRA). I assisted in a project to develop autoencoder Neural Networks (NNs) to detect certain features in images of fish for the university's biology department. I also researched and wrote literature reviews on various subtopics in ML (NNs, principal component analysis, data reduction, etc.).</p-->
+          <!-- p> Funded by an NSERC Undergraduate Student Research Award (USRA). Assisted in a project to develop autoencoder Neural Networks (NNs) to detect certain features in images of fish for the university's biology department. Researched and wrote literature reviews on various subtopics in ML (NNs, principal component analysis, data reduction, etc.).</p-->
           <hr>
         </div>
         <div class="w3-container">
