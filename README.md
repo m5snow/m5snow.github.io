@@ -193,8 +193,8 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 
 
 	<div class="w3-container w3-card w3-white">
-    	<a href="Projects.html"> <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-file fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2> </a>
-         <div class="w3-container">
+    	<a href="Projects.html"> <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-file fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i> Projects Page </h2> </a>
+        <!-- <div class="w3-container">
            <h4 class="w3-text-dark-grey">Biological Plausibility in Modern Hopfield Networks</h4>
            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
            <h6>This work was for my master's thesis; I investigated the biological plausibility of modern Hopfield Networks and developed a model of associative memory that is more biologically realistic. </h6>
@@ -223,7 +223,7 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
 ><h6> <u>Click here for paper </u></h6></a>
 	 <hr>	 
          </div>
-	</div>
+	</div> -->
 
 
 
