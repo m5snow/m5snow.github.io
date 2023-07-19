@@ -144,14 +144,14 @@ border: 20px double; border-color: rgba(250, 200, 200, 0.8);
           <h4 class="w3-text-dark-grey"> Mathematics Instructor </h4>
 	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Memorial University of Newfoundland (Grenfell Campus)</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
-          <!-- h6 > Instructed Calculus I (MATH 1000) at MUN Grenfell Campus during intersession (condensed delivery). Designed course layout/syllabus. Created and delivered lectures. Created and evaluated assignments and exams. Proctored midterm and final exams. Managed office hours, and review sessions. </h6 -->
+          < h6 > Instructed Calculus I (MATH 1000) at MUN Grenfell Campus during intersession (condensed delivery). Designed course layout/syllabus. Created and delivered lectures. Created and evaluated assignments and exams. Proctored midterm and final exams. Managed office hours, and review sessions. </h6 >
           <hr>
         </div>
         <div class="w3-container">
           <h4 class="w3-text-dark-grey"> Computer Science Teaching Assistant </h4>
 	  <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>University of Waterloo</h6>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - Dec 2022</h6>
-          <!-- h6 > Worked as a teaching assistant for a variety of university computer science courses such as Designing Functional Programs, Algorithm Design and Data Abstraction, Computational Mathematics, Logic and Computation. Markied large volumes of assignments and exams, proctored in-person exams, and conducted regular office hours. </h6 -->
+          < h6 > Worked as a teaching assistant for a variety of university computer science courses (e.g. Designing Functional Programs, Algorithm Design and Data Abstraction, Computational Mathematics, Logic and Computation). Markied large volumes of assignments and exams, proctored in-person exams, and conducted regular office hours. </h6>
           <hr>
         </div>
       	<div class="w3-container">
